@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food Web | Jonathan J. Borrelli</title>
+    <link>/tag/food-web/</link>
+      <atom:link href="/tag/food-web/index.xml" rel="self" type="application/rss+xml" />
+    <description>Food Web</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 J. J. Borrelli</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0a416d4dfc81212628b01d7feafb7f24_5250_512x512_fill_lanczos_center_2.png</url>
+      <title>Food Web</title>
+      <link>/tag/food-web/</link>
+    </image>
+    
+    <item>
+      <title>Lake George Food Web</title>
+      <link>/project/lakegeorgefoodweb/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/lakegeorgefoodweb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selection on Stability</title>
+      <link>/project/selectiononstability/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/selectiononstability/</guid>
+      <description>&lt;p&gt;Selection on stability is&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trophic</title>
+      <link>/project/trophic/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/trophic/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Trophic&lt;/em&gt; is an R package I am working on to compile functions for generating food web structures. It currently has 9 different methods available to generate adjacency matrices.&lt;/p&gt;
+&lt;p&gt;I have several goals for this work beyond simply generating food web structures. I hope to implement methods developed by Allesina et al. to determine the likelihood that an observed food web was generated using a specific algorithm.&lt;/p&gt;
+&lt;p&gt;I also plan to link this package to models of food web dynamics, in order to make it easier to generate and simulate food webs for testing theory.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trophic3D</title>
+      <link>/project/trophic3d/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/trophic3d/</guid>
+      <description>&lt;p&gt;I have begun to work with a group of artists at RPI to develop a virtual reality game that allows a user to explore a lake food web. The user will be able to experience the complexity of the ecological community and learn how energy moves through the food web.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selection on stability across ecological scales</title>
+      <link>/publication/borrelli2015-tree/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/borrelli2015-tree/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Selection against instability: stable subgraphs are most frequent in empirical food webs</title>
+      <link>/publication/borrelli2015-oikos/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/borrelli2015-oikos/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why there are so few trophic levels: Selection against instability explains the pattern</title>
+      <link>/publication/borrelli2014-foodweb/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/borrelli2014-foodweb/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
